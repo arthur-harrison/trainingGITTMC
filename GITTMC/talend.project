@@ -4,4 +4,5 @@
     <migrationTask xmi:id="_HcyFoHkNEeqVbuWVe38x7Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_HF1lQnkNEeqVbuWVe38x7Q" login="ahthahh@trial03252.ap.talend.com" firstName="Arthur" lastName="Harrison" type="DQ"/>
+  <TalendProperties:User xmi:id="_KRFQd3mrEeqVroG0JfJiDg" login="arthur.harrison@trial03252.ap.talend.com" firstName="Arthur" lastName="Harrison" type="DQ"/>
 </xmi:XMI>
